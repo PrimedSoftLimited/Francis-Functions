@@ -8,6 +8,6 @@
 
 ## ANAGRAM: An anagram is direct word switch or word play, the result of rearranging the letters of a word or phrase to produce a new word or phrase, using all the original letters exactly once; for example, the word anagram can be rearranged into nag-a-ram.
 - A function to check if a word is an Anagram of another word.
-- The function takes in to words as parameters.
+- The function takes in two words as parameters.
 - Then compares the two words.
 - To check if they have the same string of characters.
